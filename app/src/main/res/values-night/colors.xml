@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="agro_primary">#1B5E20</color>
+    <color name="agro_primary_dark">#0A3620</color>
+    <color name="agro_primary_container">#0F3C22</color>
+    <color name="agro_secondary">#6ABF69</color>
+    <color name="agro_secondary_container">#1E4626</color>
+    <color name="agro_surface">#102015</color>
+    <color name="agro_on_primary">#FFFFFF</color>
+    <color name="agro_on_secondary">#103A24</color>
+    <color name="agro_on_surface">#E0F2E9</color>
+</resources>
+

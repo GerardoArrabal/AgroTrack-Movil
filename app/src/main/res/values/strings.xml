@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AgroTrack Móvil</string>
+    <string name="login_titulo">AgroTrack</string>
+    <string name="hint_usuario">Usuario o correo</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_iniciar_sesion">Acceder</string>
+    <string name="error_usuario_obligatorio">Introduce tu usuario o correo</string>
+    <string name="error_password_obligatorio">Introduce la contraseña</string>
+    <string name="dialog_admin_titulo">Perfil no disponible</string>
+    <string name="dialog_admin_mensaje">El administrador solo puede operar desde la versión de escritorio.</string>
+    <string name="titulo_fincas">Mis fincas</string>
+    <string name="fincas_usuario">Hola, %1$s</string>
+    <string name="mensaje_sin_fincas">Aún no tienes fincas registradas.</string>
+    <string name="btn_reintentar">Reintentar</string>
+    <string name="error_usuario_no_valido">Usuario no válido</string>
+    <string name="error_finca_no_valida">No se pudo cargar la información de la finca</string>
+    <string name="coordenadas_no_disponibles">Sin coordenadas registradas</string>
+    <string name="coordenadas_puntos">%1$d puntos de geolocalización</string>
+    <string name="sin_cultivos_registrados">No hay cultivos registrados</string>
+    <string name="fecha_siembra">Siembra: %1$s</string>
+    <string name="fecha_cosecha">Cosecha: %1$s</string>
+    <string name="fechas_no_disponibles">Fechas no disponibles</string>
+    <string name="produccion_kg">Producción: %1$s kg</string>
+    <string name="produccion_no_disponible">Producción no disponible</string>
+    <string name="action_cerrar_sesion">Cerrar sesión</string>
+    <string name="mensaje_admin_credenciales">El perfil de administrador solo puede gestionarse desde la versión de escritorio.</string>
+</resources>
